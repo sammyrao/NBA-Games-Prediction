@@ -1,0 +1,1 @@
+joblib==1.0.0matplotlib==3.3.3nba-api==1.1.9numpy==1.18.1openpyxl==3.0.6pandas==0.25.3prettytable==2.0.0scikit-learn==0.24.0seaborn==0.11.1
